@@ -1,6 +1,5 @@
 # RencanaKu Apps
 
-## Capstone Project - B25-PG011
 
 ## Deskripsi Umum
 
