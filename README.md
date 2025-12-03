@@ -106,19 +106,6 @@ Lihat ringkasan kegiatan bisnis serta laporan cashflow mingguan dalam tampilan d
   <img src="assets/screenshots/profile/rencanaku_logout.png" alt="User Logout" width="20%" />
 </p>
 
-## Tim Pengembang
-
-### Kelompok B25-PG011<br>
-
-Program Bootcamp BEKUP Create: Upskilling Skills 2025
-
-| No       | Nama                     | Peran                               |
-| -------- | ------------------------ | ----------------------------------- |
-| BC25B035 | Bayu Teguh Pamuji        | Project Manager / Flutter Developer |
-| BC25B031 | Martaulina Simanungkalit | UI/UX Designer / QA Tester          |
-| BC25B019 | Diaz Saputra             | Frontend Developer                  |
-| BC25B037 | Mirza Danish Faturrahman | Backend Developer                   |
-
 ## Cara Menjalankan Aplikasi
 
 1. Clone repository ini:
